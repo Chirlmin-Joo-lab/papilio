@@ -19,6 +19,7 @@ sys.path.insert(0, os.path.abspath('..'))
 project = 'papylio'
 copyright = '2025 - Chirlmin Joo lab'
 # author = 'Ivo Severins, Sung Hyun Kim, Carolien Bastiaanssen, Iason Katechis, Margreet Docter, Roy Simons, Pim America, '
+html_logo = '_static/logo.png'
 
 # from git import Repo
 from pathlib2 import Path

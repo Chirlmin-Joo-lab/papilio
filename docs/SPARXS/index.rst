@@ -12,7 +12,7 @@ Obtaining the sequence characteristics from the data is divided into 6 step.
 5. :doc:`Single-molecule data analysis 2<5_single_molecule_data_analysis_2>`
 6. :doc:`Properties per sequence<6_properties_per_sequence>`
 
-When doing SPARXS for the first time or when using a new combination of microscope and sequencer, the global alignment will need to be determined using a separate experiment.
+When doing SPARXS for the first time or when using a new combination of microscope and sequencer, the :doc:`global alignment<global_alignment>` will need to be determined using a separate experiment.
 
 The documentation was made using the `SPARXS example dataset`_ which is freely available at Zenodo.
 
@@ -26,6 +26,7 @@ The documentation was made using the `SPARXS example dataset`_ which is freely a
     4_coupling_datasets
     5_single_molecule_data_analysis_2
     6_properties_per_sequence
+    global_alignment
 
 
 .. _Single-molecule structural and kinetic studies across sequence space: https://www.science.org/doi/10.1126/science.adn5968
